@@ -1,0 +1,18 @@
+.link {
+  color: #5b3dfd;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.home-container {
+  margin: 150px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

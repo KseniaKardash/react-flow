@@ -1,0 +1,12 @@
+.btn-log-out {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px;
+  background-color: #5b3dfd;
+  padding: 20px 30px;
+  color: #ffffff;
+  border: 0;
+  outline:none;
+  border-radius: 100px;
+  cursor: pointer;
+}
